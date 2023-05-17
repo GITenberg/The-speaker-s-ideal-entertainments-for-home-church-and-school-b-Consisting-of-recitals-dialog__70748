@@ -1,0 +1,31 @@
+_repo: The-speaker-s-ideal-entertainments-for-home-church-and-school-b-Consisting-of-recitals-dialog__70748
+_version: 0.0.1
+contributor:
+  annotator:
+    agent_name: Peirce, Frances E.
+    gutenberg_agent_id: '55906'
+    url: http://www.gutenberg.org/2009/agents/55906
+creator:
+  author:
+    agent_name: Vickers, George M.
+    gutenberg_agent_id: '55905'
+    url: http://www.gutenberg.org/2009/agents/55905
+description: ''
+gutenberg_issued: '2023-05-12'
+identifiers:
+  gutenberg: '70748'
+language: en
+pgterms:marc905: 20210419063347vickers
+pgterms:marc906: '1892'
+pgterms:marc907: US
+production_note: Carol Brown, Tim Lindell, Chuck Greif, Peter Vachuska, Jude Eylander
+  and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aUnited States :$bS. I. Bell & Co., $c1892.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The speaker''s ideal entertainments; for home, church and school : $b Consisting
+  of recitals, dialogues and dramas'
+url: http://www.gutenberg.org/ebooks/70748
